@@ -1,7 +1,7 @@
-- Olá, me chamo Vinicius Silva. Atualmente estudo desenvolvimento web, fullstack. Faço faculdade de engenharia da computação e hoje posso me ver na área da tecnologia através
-da programação. Continue me envolvendo mais na área (desenvolvimento constante).
+- Hi, my name is Vinicius Silva. I'm currently studying web development, fullstack. I study computer engineering and today I can see myself in the technology area through
+of the schedule. I keep getting more involved in the area (constant development).
 
-#TECNOLOGIAS:
+#TECHNOLOGIES:
 -HTML
 -CSS
--JAVASCRIPT
+-JAVASCRIP
