@@ -4,4 +4,4 @@ of the schedule. I keep getting more involved in the area (constant development)
 #TECHNOLOGIES:
 -HTML
 -CSS
--JAVASCRIP
+-JAVASCRIPT
