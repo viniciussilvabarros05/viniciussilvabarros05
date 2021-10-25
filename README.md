@@ -9,4 +9,3 @@ of the schedule. I keep getting more involved in the area (constant development)
 - NODE.JS
 - MONGODB
 - FIREBASE
-- 
