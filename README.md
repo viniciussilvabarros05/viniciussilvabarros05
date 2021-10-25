@@ -5,3 +5,8 @@ of the schedule. I keep getting more involved in the area (constant development)
 -HTML
 -CSS
 -JAVASCRIPT
+-REACT.JS
+- NODE.JS
+- MONGODB
+- FIREBASE
+- 
