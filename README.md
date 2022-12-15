@@ -16,7 +16,7 @@
 </div>
 <br/>
 <br/>
-<div style="display: flex, flex-direction:row"> 
+<div  style="display: inline_block, width: 80"> 
 <a href="https://instagram.com/vini_silva1973" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
 
 <a href="https://www.linkedin.com/in/vinicius-barros-5b616520a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
