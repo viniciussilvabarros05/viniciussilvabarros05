@@ -1,4 +1,8 @@
 ## Hi, my name is Vinicius Silva.
+- Sou Desenvolvedor frontend, futuro Fullstack 🤞 
+- Tenho me aproximado mais do React Native 👨‍💻 📱
+- Trabalho principalmente com React 💻
+- Minha primeira vaga foi em 01/2022, ano da copa⚽️ 
 
 <div align="center">
   <a href="https://github.com/viniciussilvabarros05">
